@@ -5,6 +5,7 @@
 - 📫 How to reach me :
 - By email : antonym.inco@gmail.com
 - on my website : air-journal.go.yo.fr/contact.php
+- 🏫 I'm currently a student at the Instituion of Carthusians
 
 <!---
 LeRenardBlanc/LeRenardBlanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
